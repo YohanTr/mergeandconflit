@@ -1,3 +1,3 @@
-# mergeandconflit
+REMOTE
 
 Ligne de texte
