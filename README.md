@@ -1,3 +1,3 @@
-# mergeandconflit
+LOCAL
 
 Ligne de texte
